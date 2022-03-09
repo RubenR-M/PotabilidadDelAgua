@@ -24,6 +24,6 @@ Dataset: Dataset con características químicas de diferentes muestras de agua q
   * Se hizo uso de un RandomForestRegressor el cual es entrenado con las variables de analisis del agua.
 
 ## Enlaces:
-  * Codigo: https://colab.research.google.com/drive/1MvL7GD8HYuBsxbRobD2UoONl8jn7EQN9
+  * Codigo: https://colab.research.google.com/drive/1MvL7GD8HYuBsxbRobD2UoONl8jn7EQN9?usp=sharing
   * Video: https://www.youtube.com/watch?v=uBh9U5CAZFg
   * repositorio: https://github.com/RubenR-M/PotabilidadDelAgua
